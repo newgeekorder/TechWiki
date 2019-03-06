@@ -12,7 +12,12 @@ Partitioning refers to splitting what is logically one large table into smaller 
 
 ## Postgres and Security 
 * Authentication 
+	* the default md5 salted password mechanism  
+	* pg10 scram -  
+
+> set password_encrption = 'scram';
+
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODg2MDE2NSwtMjEyMjExNDk1M119
+eyJoaXN0b3J5IjpbNDMyMjc3Mzk5LC0yMTIyMTE0OTUzXX0=
 -->
