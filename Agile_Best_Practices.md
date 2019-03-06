@@ -8,7 +8,7 @@
 
 ##  Tools 
 
-|Tool |  Ov|
+|Tool |  Overview |
 |--|--|
 | [Zenhub ](https://www.zenhub.com/) | "Multi-repo Boards, Epics, and reports — all without ever leaving GitHub." 
 | [HuBoard](https://huboard.com/) |  GitHub-backed kanban boards.
@@ -18,6 +18,6 @@
 | [Zube](https://zube.io/)  |  Project management for GitHub issues.|  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTg1MDgzOSw4MzY3MTAzNjYsLTI2MD
+eyJoaXN0b3J5IjpbMTQwNzg4NzczMSw4MzY3MTAzNjYsLTI2MD
 UyNjE1M119
 -->
