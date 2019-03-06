@@ -3,6 +3,7 @@
 
 
 ## Postgres 
+[PostgresSql](https://twitter.com/PostgreSQL) on twitter
 
 |  Name | Notes   | Location  |
 |--|--|--| 
@@ -11,6 +12,6 @@
 |  [Devrim Gündüz](https://twitter.com/DevrimGunduz) |  Posgres developer (enterprise db) | London | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg0MTg2ODEsLTIwMzQwOTcxMzldfQ
-==
+eyJoaXN0b3J5IjpbLTEyNzQzNDg4NDUsLTEzNjg0MTg2ODEsLT
+IwMzQwOTcxMzldfQ==
 -->
