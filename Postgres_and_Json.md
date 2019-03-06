@@ -16,18 +16,15 @@ or
  Two GIN  "operator classes"  are provided, offering different performance and flexibility trade-offs.
 
 The first (jdoc) index supports a range of postgres operators 
-| @>,  ?,  ?&  and  ?|  operators|  |
+
+| Operators |  Note|  
 |--|--|
 | @> |  |
+|  ?&  | | 
 | ? | | 
-| ? | | 
-v
 
-
-
-The default GIN operator class for  jsonb  supports queries with the  @>,  ?,  ?&  and  ?|  operators. (For details of the semantics that these operators implement, see  [Table 9-41](https://www.postgresql.org/docs/9.4/functions-json.html#FUNCTIONS-JSONB-OP-TABLE).) An example of creating an index with this operator class is:
-
+While the second (faster) index only supports the @>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MDgyNjIsLTk2NjkyMTU4N119
+eyJoaXN0b3J5IjpbLTE2NDQ1NTk5NzQsLTk2NjkyMTU4N119
 -->
