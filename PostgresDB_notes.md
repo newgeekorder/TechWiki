@@ -17,7 +17,11 @@ Partitioning refers to splitting what is logically one large table into smaller 
 
 > set password_encrption = 'scram';
 
+Restrict IP ranges
+
+
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMjc3Mzk5LC0yMTIyMTE0OTUzXX0=
+eyJoaXN0b3J5IjpbLTIwNzI5NDM0MDIsNDMyMjc3Mzk5LC0yMT
+IyMTE0OTUzXX0=
 -->
