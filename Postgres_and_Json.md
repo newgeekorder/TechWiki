@@ -23,8 +23,8 @@ The first (jdoc) index supports a range of postgres operators
 |  ?&  | | 
 | ? | | 
 
-While the second (faster) index only supports the @>
+While the second (faster) index only supports the `@>` operator 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ1NTk5NzQsLTk2NjkyMTU4N119
+eyJoaXN0b3J5IjpbMTQyNDU5NDA0MiwtOTY2OTIxNTg3XX0=
 -->
