@@ -1,4 +1,5 @@
-Overview 
+## Overview 
+
 One of the key themes/fallacies of the many self appointed leaders in the agile community is that
 
 - Metrics don't work and and that teams should be un-accountable or self-accountable. As seen in their writings 
@@ -17,5 +18,5 @@ However (imho) breaks the key fundamental of good stakeholder engagement and the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NDQ4NjUwXX0=
+eyJoaXN0b3J5IjpbLTE3MzI4MTQwODQsNzM4NDQ4NjUwXX0=
 -->
