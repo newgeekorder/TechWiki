@@ -17,14 +17,17 @@ Partitioning refers to splitting what is logically one large table into smaller 
 
 > set password_encrption = 'scram';
 
-Restrict IP ranges
--   Allow remote IP address to access  configure the  /var/lib/pgsql/data/pg_hba.conf.
--   Allow communication over TCP/IP. You need to open  **PostgreSQL**configuration file /var/lib/**pgsql**/data/**postgresql**.conf. ...
--   Step # 3: Restart  **PostgreSQL**  server. ...
+* Restrict IP ranges
+open file called /var/lib/pgsql/data/pg_hba.conf. Login as postgres user using su command:
 
+    > $ su - postgres 
+    > $ vi /var/lib/pgsql/data/pg_hba.conf
+
+to give access to 192.168.1.0/24 network:  
+`host all all 192.168.1.0 255.255.255.0 trust`
 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzkzNTcwNiw0MzIyNzczOTksLTIxMj
+eyJoaXN0b3J5IjpbMTYyMzYxNjUzOCw0MzIyNzczOTksLTIxMj
 IxMTQ5NTNdfQ==
 -->
