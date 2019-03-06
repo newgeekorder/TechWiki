@@ -27,8 +27,8 @@ While the second (faster) index only supports the `@>` operator
 
 
 ## Links and Reference
-
+ * https://www.postgresql.org/docs/9.4/datatype-json.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODc2MTczNywxNDI0NTk0MDQyLC05Nj
-Y5MjE1ODddfQ==
+eyJoaXN0b3J5IjpbLTEzODE3NjM4MzIsMTI4ODc2MTczNywxND
+I0NTk0MDQyLC05NjY5MjE1ODddfQ==
 -->
