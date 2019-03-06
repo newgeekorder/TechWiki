@@ -8,7 +8,16 @@
 
 ##  Tools 
 * [Zenhub ](https://www.zenhub.com/) "Multi-repo Boards, Epics, and reports — all without ever leaving GitHub." 
+
+|Tool |  |
+|--|--|
+| [HuBoard](https://huboard.com/) |  GitHub-backed kanban boards.
+-   [Taiga.io](https://taiga.io/)  - Project management for agile developers.
+-   [Waffle.io](https://waffle.io/)  - Project management for GitHub issues.
+-   [ZenHub](https://www.zenhub.com/)  - Agile GitHub project management.
+-   [Zube](https://zube.io/)  - Project management for GitHub issues.|  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTU2NTczOSw4MzY3MTAzNjYsLTI2MD
+eyJoaXN0b3J5IjpbLTQzNTUyMTQ4MCw4MzY3MTAzNjYsLTI2MD
 UyNjE1M119
 -->
