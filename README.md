@@ -1,4 +1,4 @@
-TechWiki
+Tech Notes
 ========
 
 
