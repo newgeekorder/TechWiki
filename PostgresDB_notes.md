@@ -9,6 +9,10 @@ Partitioning refers to splitting what is logically one large table into smaller 
 
  Postgres 10 introduce "declarative Partitioning" 
  https://www.postgresql.org/docs/10/ddl-partitioning.html
+
+## Postgres and Security 
+* Authentication 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIxMTQ5NTNdfQ==
+eyJoaXN0b3J5IjpbLTM1ODg2MDE2NSwtMjEyMjExNDk1M119
 -->
