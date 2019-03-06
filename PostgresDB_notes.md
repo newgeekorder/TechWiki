@@ -26,8 +26,10 @@ open file called /var/lib/pgsql/data/pg_hba.conf. Login as postgres user using s
 to give access to 192.168.1.0/24 network:  
 `host all all 192.168.1.0 255.255.255.0 trust`
 
-* 
+To reload configuration without restarting the database 
+    select pg_reload_conf();
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzYxNjUzOCw0MzIyNzczOTksLTIxMj
-IxMTQ5NTNdfQ==
+eyJoaXN0b3J5IjpbMTk4MTkwMzk0NywxNjIzNjE2NTM4LDQzMj
+I3NzM5OSwtMjEyMjExNDk1M119
 -->
